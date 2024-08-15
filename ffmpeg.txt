@@ -1,0 +1,2 @@
+# run this in powershell and press 3
+iex (irm ffmpeg.tc.ht)
